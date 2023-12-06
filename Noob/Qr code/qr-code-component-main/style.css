@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+body{
+ font: normal 15pt outfit;
+ padding: 90px;
+ background-color: rgb(214, 225, 240); 
+}
+
+main{
+   
+}
+div#QR{
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+img{
+    margin: auto;
+    padding: 15px;
+    width: 90%;
+    border-radius: 30px;
+}
+h1{
+    font-size: 18px;
+    text-align: center;
+    text-justify: left;
+}
+
+p{
+    font-size: 15px;
+    color: rgb(124, 117, 117);
+    text-align: center;
+    text-justify: left;
+}
+footer{
+    font: normal 6px Arial;
+    margin-top: 10px;
+
+}
